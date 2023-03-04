@@ -1,6 +1,6 @@
 ## Olá, meu nome é Daniel Alves Sanches
 <div align="justify">
-  <p>Cursando 6° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
+  <p>Cursando 7° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
 </div
 
 ![Profile views](https://gpvc.arturio.dev/danieldiv) 
