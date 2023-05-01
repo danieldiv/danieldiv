@@ -4,5 +4,6 @@
 </div
 
 ![Profile views](https://gpvc.arturio.dev/danieldiv) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldiv&show_icons=true&theme=default)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldiv) &nbsp; 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldiv&show_icons=true&count_private=true)  -->
