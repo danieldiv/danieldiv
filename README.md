@@ -5,5 +5,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/danieldiv)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldiv&theme=dark) &nbsp; 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldiv&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldiv&theme=dark) &nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldiv&show_icons=true&theme=dark&count_private=true)
