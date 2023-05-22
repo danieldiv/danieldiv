@@ -7,7 +7,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldiv&row=1" alt="danieldiv" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/https://www.facebook.com/daniel.alves.5458498" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-</div> 
+</div>  -->
   
 <h3 align="left">Languages and Tools:</h3>
 
