@@ -3,7 +3,7 @@
   <p>Cursando 7° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
 </div
   
-![Profile views](https://gpvc.arturio.dev/danieldiv)
+<!--![Profile views](https://gpvc.arturio.dev/danieldiv)-->
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldiv&row=1" alt="danieldiv" /></a> </p>
 
