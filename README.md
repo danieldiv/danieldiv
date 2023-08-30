@@ -2,7 +2,10 @@
 <div align="justify">
   <p>Cursando 7° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
 </div
-  
+
+</br>
+<p align="left"> <img align="center" src="https://profile-counter.glitch.me/danieldiv/count.svg"/></p>
+
 <!--![Profile views](https://gpvc.arturio.dev/danieldiv)-->
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldiv&row=1" alt="danieldiv" /></a> </p>
