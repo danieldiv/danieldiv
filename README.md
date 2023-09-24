@@ -8,7 +8,7 @@
 
 <!--![Profile views](https://gpvc.arturio.dev/danieldiv)-->
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldiv&row=1" alt="danieldiv" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieldiv&row=1" alt="danieldiv" /></a> </p>-->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -45,4 +45,4 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieldiv&show_icons=true&locale=en" alt="danieldiv" /></p>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldiv&" alt="danieldiv" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldiv&" alt="danieldiv" /></p>-->
