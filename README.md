@@ -3,7 +3,7 @@
 <p align="left"> <img align="center" src="https://profile-counter.glitch.me/danieldiv/count.svg"/></p>
 
 <div align="justify">
-  <p>Cursando 7° periodo de Engenharia da Computação no CEFET-MG, Campus V<p>
+  <p>Cursando Engenharia de Computação no CEFET-MG, Campus V<p>
 </div
 
 <!--![Profile views](https://gpvc.arturio.dev/danieldiv)-->
